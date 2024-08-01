@@ -20,7 +20,7 @@
 Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste arquivo README, conforme solicita o desafio. 
 
 ---
-### 🔸 User Story 1 
+### 🔸 User Story 1: Acesso a Tela Inicial de Cursos
 - **Como** primeira vez utilizando a plataforma Beedoo, **eu quero** acessar a tela inicial de cursos **para** entender como a aplicação funciona.
 
 **1. Critérios de Aceitação:**
@@ -36,7 +36,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 
 ---
 
-### 🔸 User Story 2
+### 🔸 User Story 2: Criação de Novo Curso
 
 - **Como** usuário da plataforma Beedoo, **eu quero** acessar a página "Cadastrar Cursos" pelo header **para** verificar se é possível cadastrar um curso.
 
@@ -50,7 +50,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 
 ---
 
-### 🔸 User Story 3
+### 🔸 User Story 3: Verificação de Curso Criado
 
 - **Como** usuário da plataforma Beedoo, **eu quero** acessar a tela de cursos **para** ver que os cursos que criei foram adicionados com sucesso.
 
@@ -72,7 +72,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 
 ---
 
-### 🔸 User Story 4
+### 🔸 User Story 4: Acesso a Lista de Cursos
 
 - **Como** usuário da plataforma Beedoo, **eu quero** acessar a página de listagem de cursos pelo header **para** ver todos os cursos numa lista.
 
@@ -84,7 +84,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 
 ---
 
-### 🔸 User Story 5
+### 🔸 User Story 5:  Exclusão de Curso
 
 - **Como** usuário da plataforma Beedoo, **eu quero** ser notificado se a exclusão de um curso for bem-sucedida **para** que eu saiba que o curso foi removido corretamente.
 
@@ -103,7 +103,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 
 ---
 
-### 🔸 User Story 6
+### 🔸 User Story 6: Verificação de Cursos Criados
 
 - **Como** usuário da plataforma Beedoo, **eu quero** acessar a tela de cursos **para** ver que os cursos que criei foram adicionados com sucesso.
 
@@ -125,7 +125,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 
 ---
 
-### 🔸 User Story 7
+### 🔸 User Story 7: Validação de Campos Obrigatórios
 
 - **Como** usuário da plataforma Beedoo, **eu quero** garantir que não seja possível cadastrar um curso sem preencher todos os campos obrigatórios **para** que o curso seja criado com todas as informações necessárias.
 
@@ -143,7 +143,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 
 ---
 
-### 🔸 User Story 8
+### 🔸 User Story 8: Limite de Caracteres
 
 - **Como** usuário da plataforma Beedoo, **eu quero** que haja um limite de caracteres para os campos ao cadastrar um curso **para** garantir que as informações inseridas sejam concisas.
 
@@ -165,7 +165,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 ## ✨ Bônus: Validando Acessibilidade com Leitor de Tela e AcessMonitor
 Embora acessibilidade não tenha sido um requisito do desafio, usei uma ferramentas que normalmente aplico em minhas análises para garantir que a funcionalidade esteja bem implementada.
 
-### 🔸 User Story 9 - Leitor de Tela
+### 🔸 User Story 9 - Acessibilidade com Leitor de Tela
 
 - **Como** usuário da plataforma Beedoo que utiliza serviços de voice over, **eu quero** que todas as informações do site sejam legíveis por esse serviço **para** que eu possa concluir o fluxo de cadastro de um novo curso de forma acessível.
 
