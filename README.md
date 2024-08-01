@@ -224,3 +224,4 @@ Os bugs estão alencados no campo "Issues" deste repositório
 - Bug #08: [Não é possível editar curso cadastrado](https://github.com/moncoress/DESAFIO-BEEDOO/issues/8)
 - Bug #09: [Não é possível excluir um curso](https://github.com/moncoress/DESAFIO-BEEDOO/issues/9)
 - Bug #10: [Problemas de Responsividade com Zoom](https://github.com/moncoress/DESAFIO-BEEDOO/issues/10)
+- Bug #11: [Leitor de Tela Não Exibe Todas as Informações na Navegação](https://github.com/moncoress/DESAFIO-BEEDOO/issues/11)
