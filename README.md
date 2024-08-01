@@ -2,13 +2,19 @@
 💡Informações sobre o proceso de criação e desenvolvimento de cada ponto do desafio estão nas páginas "Wiki" deste repositório.
  
 ---
-## Índice:
+## Índice README:
 
 - [User Story 1 a 8](#User-Story)
 - [Bônus User Story de Acessibilidade](#user-story-9)
 - [Análise de URL com AccessMonitor](#bônus-análise-de-url-com-accessmonitor) 
 - [Planilha de Casos de Teste e Evidências MP4](#Tabela-de-Casos-de-Teste-Evidências-e-Registro-de-Bugs)
 - [Registro de Bugs](#)
+
+## Índice Wiki:
+- [Criando o Report de Bugs](https://github.com/moncoress/DESAFIO-BEEDOO/wiki/Criando-o-Report-de-Bugs)
+- [Desenvolvendo User Storys](https://github.com/moncoress/DESAFIO-BEEDOO/wiki/Desenvolvendo-User-Storys)
+- [Criação dos Casos de Teste](https://github.com/moncoress/DESAFIO-BEEDOO/wiki/Cria%C3%A7%C3%A3o-dos-Casos-de-Teste)
+  
 ---
 # 1️⃣ User Story
 Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste arquivo README, conforme solicita o desafio. 
