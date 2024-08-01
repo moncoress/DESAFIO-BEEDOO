@@ -17,7 +17,7 @@
 - [Casos de Teste, Evidências e Registros de Bugs](#Tabela-de-Casos-de-Teste-Evidências-e-Registro-de-Bugs)
 ---
 # User Story
-Um total de 9 User Stories elaboradas no formato Markdown, descritas neste arquivo README, conforme solicita o desafio. 
+Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste arquivo README, conforme solicita o desafio. 
 
 ---
 ### 🔸 User Story 1 
