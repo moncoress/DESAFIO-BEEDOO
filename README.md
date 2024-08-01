@@ -202,14 +202,12 @@ Para mais informações:
 **🔸User Story 2 a 8: Funcionalidade "Cadastrar Cursos"**
 - [Tabela Google Docs](https://docs.google.com/spreadsheets/d/1BNY0udQeUtEVB8vzKHq1ggI-15_eRWYjzgbSZlhI9OM/edit?gid=0#gid=0)
 - [Evidências MP4 - Google Drive](https://drive.google.com/drive/folders/1WACwY7Yi6p8bcZRRS3do6tuHfuGr3pbe?usp=drive_link)
-- [Registro de Bugs]()
 
 **🔸User Story 9: Acessibilidade com Voice Over**
 - [Tabela Google Docs](https://docs.google.com/spreadsheets/d/1Uwhn5uwlZXIGWURo8DAhHX4rwkxVF56TFFYk1e9n5-M/edit?gid=0#gid=0)
 - [Evidências MP4 - Google Drive]()
-- [Registro de Bugs]()
 
 ---
 #  3️⃣ Registro de Bugs
 Os bugs estão alencados no campo "Issues" deste repositório
-
+- Bug #01: [Atualização da página ''Cadastro de Curso'' retorna 404 - Page not found](https://github.com/moncoress/DESAFIO-BEEDOO/issues/1#issue-2442802175)
