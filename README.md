@@ -213,3 +213,7 @@ Para mais informações:
 #  3️⃣ Registro de Bugs
 Os bugs estão alencados no campo "Issues" deste repositório
 - Bug #01: [Atualização da página ''Cadastro de Curso'' retorna 404 - Page not found](https://github.com/moncoress/DESAFIO-BEEDOO/issues/1#issue-2442802175)
+- Bug #02: [Caracteres especiais em campos obrigatórios ao cadastrar novo curso](https://github.com/moncoress/DESAFIO-BEEDOO/issues/2#issue-2442841415)
+- Bug #03: [Cadastro de curso com data inválida](https://github.com/moncoress/DESAFIO-BEEDOO/issues/3)
+- Bug #04: [Endereço presencial inválido ao cadastrar novo curso](https://github.com/moncoress/DESAFIO-BEEDOO/issues/4)
+- Bug #05: [Ausência de limite de caracteres ao cadastrar um curso](https://github.com/moncoress/DESAFIO-BEEDOO/issues/5)
