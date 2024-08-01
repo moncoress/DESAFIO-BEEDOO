@@ -183,8 +183,21 @@ Embora acessibilidade não tenha sido um requisito do desafio, usei uma ferramen
 - **Erro Acessível:** "A descrição do curso excedeu o limite de 500 caracteres. Reduza o texto e tente novamente."
 
 ### 🔸Análise de URL com AccessMonitor
+Pontos para observar após a análise:
+- Foi encontrado apenas 1 cabeçalho na página. As páginas Web devem ser marcadas com uma estrutura hierarquizada de títulos e subtítulos. Cada página deve ter, no mínimo, um título de nível 1. O nível 2 deve marcar as secções e o nível 3 as subsecções destas.
+- Foi localizada três combinações de cores cuja relação de contraste é inferiorao racio mínimo de contraste permitido pela WCAG (3 para 1 para textos com letra grande e 4,5 para 1 para textos com letra normal).
+- O idioma principal está marcado como "en-US".  Os usuários brasileiros esperam que o conteúdo esteja em português.
 
-- teste
+Para mais informações:
+
+[H57: Utilizar atributo language no elemento html](https://www.w3.org/WAI/WCAG21/Techniques/html/H57.html)
+
+[Critério de sucesso 1.3.1 (Nível A) Noções sobre o CS 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)
+
+[Critério de sucesso 2.4.10 (Nível AAA) Noções sobre o CS 2.4.10](https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html)
+
+[Critério de sucesso 1.4.3 (Nível AA) Noções sobre o CS 1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
+
 ---
 # Tabela de Casos de Teste, Evidências e Registro de Bugs
 
