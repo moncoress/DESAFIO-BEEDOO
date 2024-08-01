@@ -176,6 +176,8 @@ Embora acessibilidade não tenha sido um requisito do desafio, usei uma ferramen
 - **Descrição Acessível:** "O campo 'Nome do Curso' é obrigatório. Por favor, insira o nome do curso."
 - **Erro Acessível:** "A descrição do curso excedeu o limite de 500 caracteres. Reduza o texto e tente novamente."
 
+---
+
 ### 🔸Análise de URL com AccessMonitor
 Pontos para observar após a análise:
 - Foi encontrado apenas 1 cabeçalho na página. As páginas Web devem ser marcadas com uma estrutura hierarquizada de títulos e subtítulos. Cada página deve ter, no mínimo, um título de nível 1. O nível 2 deve marcar as secções e o nível 3 as subsecções destas.
