@@ -1,9 +1,9 @@
-# 🔸 DESAFIO BEEDOO - Analista de Qualidade de Software Júnior 🔸
+# DESAFIO BEEDOO 🔸 Analista de Qualidade de Software Júnior
 ---
 - As informações sobre como foram desenvolvidas as User Stories, os Cenários, Casos de Teste e Relatórios de Bugs estão detalhadas na seção de Documentação do Projeto disponível na página **"Wiki"** deste Repositório.
 ---
 
-## Índice:
+## 🔸Índice:
 
 - [User Story 1: Acesso a Tela Inicial de Cursos](#user-story-1)
 - [User Story 2: Criação de Novo Curso](#user-story-2)
