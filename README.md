@@ -196,6 +196,8 @@ Para mais informações:
 
 ---
 # 2️⃣ Tabela de Casos de Teste e Evidências em Vídeo
+As evidências em vídeos e os relatórios de bugs estão incluídos na tabela de Casos de Teste. Isso facilita a localização dessas informações, mantendo-as organizadas em um local de fácil visualização.
+Porém, como o desafio pede para mantê-los aqui no README, o link se encontra disponível abaixo.
 
 **🔸User Story 1: Acesso a Tela Inicial de Cursos**
 - [Tabela Google Docs](https://docs.google.com/spreadsheets/d/1BgEgTdqSm6RgXx6gHXnDIkkYP53QbVCjgYhXaHYL0a4/edit?gid=0#gid=0)
@@ -217,3 +219,8 @@ Os bugs estão alencados no campo "Issues" deste repositório
 - Bug #03: [Cadastro de curso com data inválida](https://github.com/moncoress/DESAFIO-BEEDOO/issues/3)
 - Bug #04: [Endereço presencial inválido ao cadastrar novo curso](https://github.com/moncoress/DESAFIO-BEEDOO/issues/4)
 - Bug #05: [Ausência de limite de caracteres ao cadastrar um curso](https://github.com/moncoress/DESAFIO-BEEDOO/issues/5)
+- Bug #06: [O campo "Link de Inscrição" permite a entrada de texto normal](https://github.com/moncoress/DESAFIO-BEEDOO/issues/6)
+- Bug #07: [Falta de validação para campos obrigatórios vazios ao cadastrar um curso](https://github.com/moncoress/DESAFIO-BEEDOO/issues/7)
+- Bug #08: [Não é possível editar curso cadastrado](https://github.com/moncoress/DESAFIO-BEEDOO/issues/8)
+- Bug #09: [Não é possível excluir um curso](https://github.com/moncoress/DESAFIO-BEEDOO/issues/9)
+- Bug #10: [Problemas de Responsividade com Zoom](https://github.com/moncoress/DESAFIO-BEEDOO/issues/10)
