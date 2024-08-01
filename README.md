@@ -16,7 +16,7 @@
 - [Análise de Acessibilidade com AccessMonitor](#bônus-análise-de-url-com-accessmonitor) 
 - [Casos de Teste, Evidências e Registros de Bugs](#Tabela-de-Casos-de-Teste-Evidências-e-Registro-de-Bugs)
 ---
-# User Story
+# 1️⃣ User Story
 Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste arquivo README, conforme solicita o desafio. 
 
 ---
@@ -199,7 +199,7 @@ Para mais informações:
 [Critério de sucesso 1.4.3 (Nível AA) Noções sobre o CS 1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
 
 ---
-# Tabela de Casos de Teste, Evidências e Registro de Bugs
+# 2️⃣ Tabela de Casos de Teste, Evidências e Registro de Bugs
 
 **🔸User Story 1: Acesso a Tela Inicial de Cursos**
 - [Tabela Google Docs](https://docs.google.com/spreadsheets/d/1BgEgTdqSm6RgXx6gHXnDIkkYP53QbVCjgYhXaHYL0a4/edit?gid=0#gid=0)
