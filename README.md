@@ -4,17 +4,11 @@
 ---
 ## Índice:
 
-- [User Story 1: Acesso a Tela Inicial de Cursos](#user-story-1)
-- [User Story 2: Criação de Novo Curso](#user-story-2)
-- [User Story 3: Verificação de Curso Criado](#user-story-3)
-- [User Story 4: Acesso a Lista de Cursos](#user-story-4)
-- [User Story 5: Exclusão de Curso](#user-story-5)
-- [User Story 6: Verificação de Cursos Criados](#user-story-6)
-- [User Story 7: Validação de Campos Obrigatórios](#user-story-7)
-- [User Story 8: Limite de Caracteres](#user-story-8)
-- [Bônus: User Story 9: Acessibilidade com Leitor de Tela](#user-story-9)
-- [Análise de Acessibilidade com AccessMonitor](#bônus-análise-de-url-com-accessmonitor) 
-- [Casos de Teste, Evidências e Registros de Bugs](#Tabela-de-Casos-de-Teste-Evidências-e-Registro-de-Bugs)
+- [User Story 1 a 8](#User-Story)
+- [Bônus User Story de Acessibilidade](#user-story-9)
+- [Análise de URL com AccessMonitor](#bônus-análise-de-url-com-accessmonitor) 
+- [Planilha de Casos de Teste e Evidências MP4](#Tabela-de-Casos-de-Teste-Evidências-e-Registro-de-Bugs)
+- [Registro de Bugs](#)
 ---
 # 1️⃣ User Story
 Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste arquivo README, conforme solicita o desafio. 
@@ -199,7 +193,7 @@ Para mais informações:
 [Critério de sucesso 1.4.3 (Nível AA) Noções sobre o CS 1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
 
 ---
-# 2️⃣ Tabela de Casos de Teste, Evidências e Registro de Bugs
+# 2️⃣ Tabela de Casos de Teste e Evidências em Vídeo
 
 **🔸User Story 1: Acesso a Tela Inicial de Cursos**
 - [Tabela Google Docs](https://docs.google.com/spreadsheets/d/1BgEgTdqSm6RgXx6gHXnDIkkYP53QbVCjgYhXaHYL0a4/edit?gid=0#gid=0)
@@ -215,4 +209,7 @@ Para mais informações:
 - [Evidências MP4 - Google Drive]()
 - [Registro de Bugs]()
 
+---
+#  3️⃣ Registro de Bugs
+Os bugs estão alencados no campo "Issues" deste repositório
 
