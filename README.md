@@ -163,7 +163,7 @@ Um total de 9 User Stories foram elaboradas no formato Markdown, descritas neste
 ---
 
 ## ✨ Bônus: Validando Acessibilidade com Leitor de Tela e AcessMonitor
-Embora acessibilidade não tenha sido um requisito do desafio, usei uma ferramentas que normalmente aplico em minhas análises para garantir que a funcionalidade esteja bem implementada.
+Embora acessibilidade não tenha sido um requisito do desafio, usei uma ferramenta que normalmente aplico em minhas análises para garantir que a funcionalidade esteja bem implementada.
 
 ### 🔸 User Story 9 - Acessibilidade com Leitor de Tela
 
