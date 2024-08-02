@@ -1,5 +1,5 @@
 # DESAFIO BEEDOO 🔸 Analista de Qualidade de Software Júnior
-💡Informações sobre o proceso de criação e desenvolvimento de cada ponto do desafio estão nas páginas "Wiki" deste repositório.
+💡Informações sobre o proceso de criação e desenvolvimento de cada ponto do desafio estão nas páginas "Wiki" deste repositório. Os casos de teste, evidências e registro de bugs estão no final deste arquivo README.
  
 ---
 ## Índice README:
